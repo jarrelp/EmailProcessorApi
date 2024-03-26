@@ -1,2 +1,3 @@
-# EmailProcessorApi
-Clean Architecture
+Haagse Hogeschool
+Minor
+Project Dilemma
